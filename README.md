@@ -1,4 +1,4 @@
-Restful API for Online eCommerce Application (Shopee Mart) using SpringBoot and Reactjs for frontEnd with Spring Security with JWT Implementation
+Restful API for Online eCommerce Application (Shopee Mart) using SpringBoot,Reactjs for frontEnd and Uses mySql Database, Razorpay API for Transcation.  
 
 ![Screenshot 2024-10-09 162424](https://github.com/user-attachments/assets/28f86744-18b5-4ab3-ae6b-f03af91d8ff1)
 
